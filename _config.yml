@@ -1,0 +1,11 @@
+# Site settings
+title: Little Tinker
+email: chris@becker.am
+description: ""
+baseurl: ""
+url: "http://littletinker.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+source: _src
